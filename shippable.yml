@@ -9,10 +9,11 @@ node_js:
 
 # environment variables
 env:
-  - NODE_ENV=test
-  - HIPCHAT_ROOMID=776140
-  - HIPCHAT_FROM=Prowl Deploy
-  - secure: SXzFaqhvjAMAQQRRN5CcOETGmkrYg86s1hriDjNT8AUhfCSNFGvBLeTIdsPwLBX3ZYl3JAnJNdyaUC41UpqUKpsLCBPC6Qc3Yl6LfaSOyF6ONbLyDeSwlzKrNVVFeaP8x5zyf35MTOPBJfMU07MerQWnCRjRsupsO84SgjYxZWBV/kzZrJ67r6bf/TKeK8LCbP5J2xlrpul3ocg1V+fH35CF4yytMAtzOt4F9K2OeHsC6OMrFA3pd3pVv3zmarRiS2jBGZ1fZRJxICVNi+wI2dUXBexJyvtNlzR1EzPpgohpFfxrTh3r0XG8lyD0wLVQiKR2JC8wYfld4hg+6lb4UA==
+  global:
+    - NODE_ENV=test
+    - HIPCHAT_ROOMID=776140
+    - HIPCHAT_FROM=Prowl Deploy
+    - secure: SXzFaqhvjAMAQQRRN5CcOETGmkrYg86s1hriDjNT8AUhfCSNFGvBLeTIdsPwLBX3ZYl3JAnJNdyaUC41UpqUKpsLCBPC6Qc3Yl6LfaSOyF6ONbLyDeSwlzKrNVVFeaP8x5zyf35MTOPBJfMU07MerQWnCRjRsupsO84SgjYxZWBV/kzZrJ67r6bf/TKeK8LCbP5J2xlrpul3ocg1V+fH35CF4yytMAtzOt4F9K2OeHsC6OMrFA3pd3pVv3zmarRiS2jBGZ1fZRJxICVNi+wI2dUXBexJyvtNlzR1EzPpgohpFfxrTh3r0XG8lyD0wLVQiKR2JC8wYfld4hg+6lb4UA==
 
 #notifications
 notifications:
