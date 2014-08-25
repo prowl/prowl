@@ -1,0 +1,30 @@
+{
+  "name": "prowl",
+  "version": "0.0.0",
+  "description": "Application Container",
+  "main": "gulpfile.js",
+  "dependencies": {
+    "gulp": "^3.8.7"
+  },
+  "devDependencies": {
+    "gulp": "^3.8.7"
+  },
+  "scripts": {
+    "test": "gulp test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/prowl/prowl.git"
+  },
+  "keywords": [
+    "Prowl",
+    "Main",
+    "Container"
+  ],
+  "author": "Joshwa Fugett <jfugett27@gmail.com> (http://thotjs.io)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/prowl/prowl/issues"
+  },
+  "homepage": "https://github.com/prowl/prowl"
+}
