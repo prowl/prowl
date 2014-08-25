@@ -3,6 +3,8 @@ prowl
 
 Main Container Repository for Prowl
 
+[![Build Status](https://api.shippable.com/projects/53f9b27ccaca7d3b06a0f3ae/badge/dev)](https://www.shippable.com/projects/53f9b27ccaca7d3b06a0f3ae)
+
 Possible Integrations:
 Swagger - This is for documenting the API
 codereviewhub - For code review workflow
