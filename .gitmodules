@@ -1,0 +1,4 @@
+[submodule "admin-client"]
+	path = admin-client
+	url = https://github.com/prowl/admin-client.git
+	branch = dev
