@@ -78,3 +78,163 @@
 	path = load-balancer-docs
 	url = https://github.com/prowl/load-balancer-docs.git
 	branch = master
+[submodule "log-client"]
+	path = log-client
+	url = https://github.com/prowl/log-client.git
+	branch = master
+[submodule "log-docs"]
+	path = log-docs
+	url = https://github.com/prowl/log-docs.git
+	branch = master
+[submodule "log-server"]
+	path = log-server
+	url = https://github.com/prowl/log-server.git
+	branch = master
+[submodule "mail-client"]
+	path = mail-client
+	url = https://github.com/prowl/mail-client.git
+	branch = master
+[submodule "mail-docs"]
+	path = mail-docs
+	url = https://github.com/prowl/mail-docs.git
+	branch = master
+[submodule "mail-server"]
+	path = mail-server
+	url = https://github.com/prowl/mail-server.git
+	branch = master
+[submodule "migration-tool"]
+	path = migration-tool
+	url = https://github.com/prowl/migration-tool.git
+	branch = master
+[submodule "monitoring-client"]
+	path = monitoring-client
+	url = https://github.com/prowl/monitoring-client.git
+	branch = master
+[submodule "monitoring-docs"]
+	path = monitoring-docs
+	url = https://github.com/prowl/monitoring-docs.git
+	branch = master
+[submodule "monitoring-server"]
+	path = monitoring-server
+	url = https://github.com/prowl/monitoring-server.git
+	branch = master
+[submodule "notification-client"]
+	path = notification-client
+	url = https://github.com/prowl/notification-client.git
+	branch = master
+[submodule "notification-docs"]
+	path = notification-docs
+	url = https://github.com/prowl/notification-docs.git
+	branch = master
+[submodule "notification-server"]
+	path = notification-server
+	url = https://github.com/prowl/notification-server.git
+	branch = master
+[submodule "payments-client"]
+	path = payments-client
+	url = https://github.com/prowl/payments-client.git
+	branch = master
+[submodule "payments-docs"]
+	path = payments-docs
+	url = https://github.com/prowl/payments-docs.git
+	branch = master
+[submodule "payments-server"]
+	path = payments-server
+	url = https://github.com/prowl/payments-server.git
+	branch = master
+[submodule "private-npm"]
+	path = private-npm
+	url = https://github.com/prowl/private-npm.git
+	branch = master
+[submodule "private-npm-client"]
+	path = private-npm-client
+	url = https://github.com/prowl/private-npm-client.git
+	branch = master
+[submodule "private-npm-docs"]
+	path = private-npm-docs
+	url = https://github.com/prowl/private-npm-docs.git
+	branch = master
+[submodule "queue-client"]
+	path = queue-client
+	url = https://github.com/prowl/queue-client.git
+	branch = master
+[submodule "queue-docs"]
+	path = queue-docs
+	url = https://github.com/prowl/queue-docs.git
+	branch = master
+[submodule "queue-server"]
+	path = queue-server
+	url = https://github.com/prowl/queue-server.git
+	branch = master
+[submodule "resource-client"]
+	path = resource-client
+	url = https://github.com/prowl/resource-client.git
+	branch = master
+[submodule "resource-docs"]
+	path = resource-docs
+	url = https://github.com/prowl/resource-docs.git
+	branch = master
+[submodule "resource-server"]
+	path = resource-server
+	url = https://github.com/prowl/resource-server.git
+	branch = master
+[submodule "scaffold"]
+	path = scaffold
+	url = https://github.com/prowl/scaffold.git
+	branch = master
+[submodule "service-discovery"]
+	path = service-discovery
+	url = https://github.com/prowl/service-discovery.git
+	branch = master
+[submodule "service-discovery-client"]
+	path = service-discovery-client
+	url = https://github.com/prowl/service-discovery-client.git
+	branch = master
+[submodule "service-discovery-docs"]
+	path = service-discovery-docs
+	url = https://github.com/prowl/service-discovery-docs.git
+	branch = master
+[submodule "site-scraper"]
+	path = site-scraper
+	url = https://github.com/prowl/site-scraper.git
+	branch = master
+[submodule "site-scraper-client"]
+	path = site-scraper-client
+	url = https://github.com/prowl/site-scraper-client.git
+	branch = master
+[submodule "site-scraper-docs"]
+	path = site-scraper-docs
+	url = https://github.com/prowl/site-scraper-docs.git
+	branch = master
+[submodule "stats-client"]
+	path = stats-client
+	url = https://github.com/prowl/stats-client.git
+	branch = master
+[submodule "stats-docs"]
+	path = stats-docs
+	url = https://github.com/prowl/stats-docs.git
+	branch = master
+[submodule "stats-server"]
+	path = stats-server
+	url = https://github.com/prowl/stats-server.git
+	branch = master
+[submodule "support-client"]
+	path = support-client
+	url = https://github.com/prowl/support-client.git
+	branch = master
+[submodule "vagrant"]
+	path = vagrant
+	url = https://github.com/prowl/vagrant.git
+	branch = master
+[submodule "worker-client"]
+	path = worker-client
+	url = https://github.com/prowl/worker-client.git
+	branch = master
+[submodule "worker-docs"]
+	path = worker-docs
+	url = https://github.com/prowl/worker-docs.git
+	branch = master
+[submodule "worker-server"]
+	path = worker-server
+	url = https://github.com/prowl/worker-server.git
+	branch = master
