@@ -1,240 +1,240 @@
 [submodule "admin-client"]
 	path = admin-client
 	url = git@github.com:prowl/admin-client.git
-	branch = master
+	branch = alpha
 [submodule "api-docs"]
 	path = api-docs
 	url = git@github.com:prowl/api-docs.git
-	branch = master
+	branch = alpha
 [submodule "api-explorer"]
 	path = api-explorer
 	url = git@github.com:prowl/api-explorer.git
-	branch = master
+	branch = alpha
 [submodule "api-server"]
 	path = api-server
 	url = git@github.com:prowl/api-server.git
-	branch = master
+	branch = alpha
 [submodule "cache-client"]
 	path = cache-client
 	url = git@github.com:prowl/cache-client.git
-	branch = master
+	branch = alpha
 [submodule "cache-docs"]
 	path = cache-docs
 	url = git@github.com:prowl/cache-docs.git
-	branch = master
+	branch = alpha
 [submodule "cache-server"]
 	path = cache-server
 	url = git@github.com:prowl/cache-server.git
-	branch = master
+	branch = alpha
 [submodule "cron-client"]
 	path = cron-client
 	url = git@github.com:prowl/cron-client.git
-	branch = master
+	branch = alpha
 [submodule "cron-docs"]
 	path = cron-docs
 	url = git@github.com:prowl/cron-docs.git
-	branch = master
+	branch = alpha
 [submodule "cron-server"]
 	path = cron-server
 	url = git@github.com:prowl/cron-server.git
-	branch = master
+	branch = alpha
 [submodule "file-client"]
 	path = file-client
 	url = git@github.com:prowl/file-client.git
-	branch = master
+	branch = alpha
 [submodule "file-docs"]
 	path = file-docs
 	url = git@github.com:prowl/file-docs.git
-	branch = master
+	branch = alpha
 [submodule "file-server"]
 	path = file-server
 	url = git@github.com:prowl/file-server.git
-	branch = master
+	branch = alpha
 [submodule "fulfillment-client"]
 	path = fulfillment-client
 	url = git@github.com:prowl/fulfillment-client.git
-	branch = master
+	branch = alpha
 [submodule "infrastructure-client"]
 	path = infrastructure-client
 	url = git@github.com:prowl/infrastructure-client.git
-	branch = master
+	branch = alpha
 [submodule "infrastructure-docs"]
 	path = infrastructure-docs
 	url = git@github.com:prowl/infrastructure-docs.git
-	branch = master
+	branch = alpha
 [submodule "infrastructure-server"]
 	path = infrastructure-server
 	url = git@github.com:prowl/infrastructure-server.git
-	branch = master
+	branch = alpha
 [submodule "load-balancer"]
 	path = load-balancer
 	url = git@github.com:prowl/load-balancer.git
-	branch = master
+	branch = alpha
 [submodule "load-balancer-client"]
 	path = load-balancer-client
 	url = git@github.com:prowl/load-balancer-client.git
-	branch = master
+	branch = alpha
 [submodule "load-balancer-docs"]
 	path = load-balancer-docs
 	url = git@github.com:prowl/load-balancer-docs.git
-	branch = master
+	branch = alpha
 [submodule "log-client"]
 	path = log-client
 	url = git@github.com:prowl/log-client.git
-	branch = master
+	branch = alpha
 [submodule "log-docs"]
 	path = log-docs
 	url = git@github.com:prowl/log-docs.git
-	branch = master
+	branch = alpha
 [submodule "log-server"]
 	path = log-server
 	url = git@github.com:prowl/log-server.git
-	branch = master
+	branch = alpha
 [submodule "mail-client"]
 	path = mail-client
 	url = git@github.com:prowl/mail-client.git
-	branch = master
+	branch = alpha
 [submodule "mail-docs"]
 	path = mail-docs
 	url = git@github.com:prowl/mail-docs.git
-	branch = master
+	branch = alpha
 [submodule "mail-server"]
 	path = mail-server
 	url = git@github.com:prowl/mail-server.git
-	branch = master
+	branch = alpha
 [submodule "migration-tool"]
 	path = migration-tool
 	url = git@github.com:prowl/migration-tool.git
-	branch = master
+	branch = alpha
 [submodule "monitoring-client"]
 	path = monitoring-client
 	url = git@github.com:prowl/monitoring-client.git
-	branch = master
+	branch = alpha
 [submodule "monitoring-docs"]
 	path = monitoring-docs
 	url = git@github.com:prowl/monitoring-docs.git
-	branch = master
+	branch = alpha
 [submodule "monitoring-server"]
 	path = monitoring-server
 	url = git@github.com:prowl/monitoring-server.git
-	branch = master
+	branch = alpha
 [submodule "notification-client"]
 	path = notification-client
 	url = git@github.com:prowl/notification-client.git
-	branch = master
+	branch = alpha
 [submodule "notification-docs"]
 	path = notification-docs
 	url = git@github.com:prowl/notification-docs.git
-	branch = master
+	branch = alpha
 [submodule "notification-server"]
 	path = notification-server
 	url = git@github.com:prowl/notification-server.git
-	branch = master
+	branch = alpha
 [submodule "payments-client"]
 	path = payments-client
 	url = git@github.com:prowl/payments-client.git
-	branch = master
+	branch = alpha
 [submodule "payments-docs"]
 	path = payments-docs
 	url = git@github.com:prowl/payments-docs.git
-	branch = master
+	branch = alpha
 [submodule "payments-server"]
 	path = payments-server
 	url = git@github.com:prowl/payments-server.git
-	branch = master
+	branch = alpha
 [submodule "private-npm"]
 	path = private-npm
 	url = git@github.com:prowl/private-npm.git
-	branch = master
+	branch = alpha
 [submodule "private-npm-client"]
 	path = private-npm-client
 	url = git@github.com:prowl/private-npm-client.git
-	branch = master
+	branch = alpha
 [submodule "private-npm-docs"]
 	path = private-npm-docs
 	url = git@github.com:prowl/private-npm-docs.git
-	branch = master
+	branch = alpha
 [submodule "queue-client"]
 	path = queue-client
 	url = git@github.com:prowl/queue-client.git
-	branch = master
+	branch = alpha
 [submodule "queue-docs"]
 	path = queue-docs
 	url = git@github.com:prowl/queue-docs.git
-	branch = master
+	branch = alpha
 [submodule "queue-server"]
 	path = queue-server
 	url = git@github.com:prowl/queue-server.git
-	branch = master
+	branch = alpha
 [submodule "resource-client"]
 	path = resource-client
 	url = git@github.com:prowl/resource-client.git
-	branch = master
+	branch = alpha
 [submodule "resource-docs"]
 	path = resource-docs
 	url = git@github.com:prowl/resource-docs.git
-	branch = master
+	branch = alpha
 [submodule "resource-server"]
 	path = resource-server
 	url = git@github.com:prowl/resource-server.git
-	branch = master
+	branch = alpha
 [submodule "scaffold"]
 	path = scaffold
 	url = git@github.com:prowl/scaffold.git
-	branch = master
+	branch = alpha
 [submodule "service-discovery"]
 	path = service-discovery
 	url = git@github.com:prowl/service-discovery.git
-	branch = master
+	branch = alpha
 [submodule "service-discovery-client"]
 	path = service-discovery-client
 	url = git@github.com:prowl/service-discovery-client.git
-	branch = master
+	branch = alpha
 [submodule "service-discovery-docs"]
 	path = service-discovery-docs
 	url = git@github.com:prowl/service-discovery-docs.git
-	branch = master
+	branch = alpha
 [submodule "site-scraper"]
 	path = site-scraper
 	url = git@github.com:prowl/site-scraper.git
-	branch = master
+	branch = alpha
 [submodule "site-scraper-client"]
 	path = site-scraper-client
 	url = git@github.com:prowl/site-scraper-client.git
-	branch = master
+	branch = alpha
 [submodule "site-scraper-docs"]
 	path = site-scraper-docs
 	url = git@github.com:prowl/site-scraper-docs.git
-	branch = master
+	branch = alpha
 [submodule "stats-client"]
 	path = stats-client
 	url = git@github.com:prowl/stats-client.git
-	branch = master
+	branch = alpha
 [submodule "stats-docs"]
 	path = stats-docs
 	url = git@github.com:prowl/stats-docs.git
-	branch = master
+	branch = alpha
 [submodule "stats-server"]
 	path = stats-server
 	url = git@github.com:prowl/stats-server.git
-	branch = master
+	branch = alpha
 [submodule "support-client"]
 	path = support-client
 	url = git@github.com:prowl/support-client.git
-	branch = master
+	branch = alpha
 [submodule "vagrant"]
 	path = vagrant
 	url = git@github.com:prowl/vagrant.git
-	branch = master
+	branch = alpha
 [submodule "worker-client"]
 	path = worker-client
 	url = git@github.com:prowl/worker-client.git
-	branch = master
+	branch = alpha
 [submodule "worker-docs"]
 	path = worker-docs
 	url = git@github.com:prowl/worker-docs.git
-	branch = master
+	branch = alpha
 [submodule "worker-server"]
 	path = worker-server
 	url = git@github.com:prowl/worker-server.git
-	branch = master
+	branch = alpha
