@@ -1,0 +1,80 @@
+[submodule "admin-client"]
+	path = admin-client
+	url = https://github.com/prowl/admin-client.git
+	branch = master
+[submodule "api-docs"]
+	path = api-docs
+	url = https://github.com/prowl/api-docs.git
+	branch = master
+[submodule "api-explorer"]
+	path = api-explorer
+	url = https://github.com/prowl/api-explorer.git
+	branch = master
+[submodule "api-server"]
+	path = api-server
+	url = https://github.com/prowl/api-server.git
+	branch = master
+[submodule "cache-client"]
+	path = cache-client
+	url = https://github.com/prowl/cache-client.git
+	branch = master
+[submodule "cache-docs"]
+	path = cache-docs
+	url = https://github.com/prowl/cache-docs.git
+	branch = master
+[submodule "cache-server"]
+	path = cache-server
+	url = https://github.com/prowl/cache-server.git
+	branch = master
+[submodule "cron-client"]
+	path = cron-client
+	url = https://github.com/prowl/cron-client.git
+	branch = master
+[submodule "cron-docs"]
+	path = cron-docs
+	url = https://github.com/prowl/cron-docs.git
+	branch = master
+[submodule "cron-server"]
+	path = cron-server
+	url = https://github.com/prowl/cron-server.git
+	branch = master
+[submodule "file-client"]
+	path = file-client
+	url = https://github.com/prowl/file-client.git
+	branch = master
+[submodule "file-docs"]
+	path = file-docs
+	url = https://github.com/prowl/file-docs.git
+	branch = master
+[submodule "file-server"]
+	path = file-server
+	url = https://github.com/prowl/file-server.git
+	branch = master
+[submodule "fulfillment-client"]
+	path = fulfillment-client
+	url = https://github.com/prowl/fulfillment-client.git
+	branch = master
+[submodule "infrastructure-client"]
+	path = infrastructure-client
+	url = https://github.com/prowl/infrastructure-client.git
+	branch = master
+[submodule "infrastructure-docs"]
+	path = infrastructure-docs
+	url = https://github.com/prowl/infrastructure-docs.git
+	branch = master
+[submodule "infrastructure-server"]
+	path = infrastructure-server
+	url = https://github.com/prowl/infrastructure-server.git
+	branch = master
+[submodule "load-balancer"]
+	path = load-balancer
+	url = https://github.com/prowl/load-balancer.git
+	branch = master
+[submodule "load-balancer-client"]
+	path = load-balancer-client
+	url = https://github.com/prowl/load-balancer-client.git
+	branch = master
+[submodule "load-balancer-docs"]
+	path = load-balancer-docs
+	url = https://github.com/prowl/load-balancer-docs.git
+	branch = master
