@@ -3,7 +3,7 @@ prowl
 
 Main Container Repository for Prowl
 
-[![Build Status](https://api.shippable.com/projects/53f9b27ccaca7d3b06a0f3ae/badge/dev)](https://www.shippable.com/projects/53f9b27ccaca7d3b06a0f3ae)
+[![Build Status](https://api.shippable.com/projects/53f9b27ccaca7d3b06a0f3ae/badge/alpha)](https://www.shippable.com/projects/53f9b27ccaca7d3b06a0f3ae)
 
 Commit Message Format:
 type(scope): Description
@@ -44,6 +44,7 @@ email - For notifications and alerts
 hipchat - For notifications and alerts
 text messages - For notifications and alerts
 pivotal tracker - Issue tracking and agile project management
+trello - this will take a custom integration but it's a hell of a lot better than working with pivotal
 shippable.com - Continuous Integration / Deployment
 vagrant - To ensure the development environments match the server environments
 
