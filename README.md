@@ -3,7 +3,7 @@ prowl
 
 Main Container Repository for Prowl
 
-[![Build Status](https://api.shippable.com/projects/53f9b27ccaca7d3b06a0f3ae/badge/master)](https://www.shippable.com/projects/53f9b27ccaca7d3b06a0f3ae)
+[![Build Status](https://api.shippable.com/projects/53f9b27ccaca7d3b06a0f3ae/badge/alpha)](https://www.shippable.com/projects/53f9b27ccaca7d3b06a0f3ae)
 
 Commit Message Format:
 type(scope): Description
