@@ -242,3 +242,11 @@
 	path = modules/gulp-module
 	url = http://github.com/prowl/gulp-module.git
 	branch = master
+[submodule "modules/gulp-module-soften"]
+	path = modules/gulp-module-soften
+	url = http://github.com/prowl/gulp-module-soften.git
+	branch = master
+[submodule "modules/gulp-module-jsvalidate"]
+	path = modules/gulp-module-jsvalidate
+	url = http://github.com/prowl/gulp-module-jsvalidate.git
+	branch = master
