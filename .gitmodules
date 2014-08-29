@@ -250,3 +250,15 @@
 	path = modules/gulp-module-jsvalidate
 	url = http://github.com/prowl/gulp-module-jsvalidate.git
 	branch = master
+[submodule "modules/gulp-module-jshint"]
+	path = modules/gulp-module-jshint
+	url = http://github.com/prowl/gulp-module-jshint.git
+	branch = master
+[submodule "modules/jshint-html"]
+	path = modules/jshint-html
+	url = http://github.com/prowl/jshint-html.git
+	branch = master
+[submodule "modules/gulp-module-jscs"]
+	path = modules/gulp-module-jscs
+	url = http://github.com/prowl/gulp-module-jscs.git
+	branch = master
