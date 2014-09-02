@@ -262,3 +262,31 @@
 	path = modules/gulp-module-jscs
 	url = http://github.com/prowl/gulp-module-jscs.git
 	branch = master
+[submodule "modules/gulp-module-jscpd"]
+	path = modules/gulp-module-jscpd
+	url = http://github.com/prowl/gulp-module-jscpd.git
+	branch = master
+[submodule "modules/gulp-module-size"]
+	path = modules/gulp-module-size
+	url = https://github.com/prowl/gulp-module-size.git
+	branch = master
+[submodule "modules/gulp-module-complexity"]
+	path = modules/gulp-module-complexity
+	url = http://github.com/prowl/gulp-module-complexity.git
+	branch = master
+[submodule "modules/gulp-module-plato"]
+	path = modules/gulp-module-plato
+	url = http://github.com/prowl/gulp-module-plato.git
+	branch = master
+[submodule "modules/gulp-module-escomplex"]
+	path = modules/gulp-module-escomplex
+	url = http://github.com/prowl/gulp-module-escomplex.git
+	branch = master
+[submodule "modules/gulp-module-cost"]
+	path = modules/gulp-module-cost
+	url = http://github.com/prowl/gulp-module-cost.git
+	branch = master
+[submodule "modules/gulp-module-unit-tests"]
+	path = modules/gulp-module-unit-tests
+	url = http://github.com/prowl/gulp-module-unit-tests.git
+	branch = master
