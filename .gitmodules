@@ -290,3 +290,23 @@
 	path = modules/gulp-module-unit-tests
 	url = http://github.com/prowl/gulp-module-unit-tests.git
 	branch = master
+[submodule "modules/gulp-module-coverage"]
+	path = modules/gulp-module-coverage
+	url = http://github.com/prowl/gulp-module-coverage.git
+	branch = master
+[submodule "modules/gulp-module-changelog"]
+	path = modules/gulp-module-changelog
+	url = http://github.com/prowl/gulp-module-changelog.git
+	branch = master
+[submodule "modules/gulp-module-todos"]
+	path = modules/gulp-module-todos
+	url = http://github.com/prowl/gulp-module-todos.git
+	branch = master
+[submodule "modules/gulp-module-contrib"]
+	path = modules/gulp-module-contrib
+	url = http://github.com/prowl/gulp-module-contrib.git
+	branch = master
+[submodule "modules/gulp-module-docs"]
+	path = modules/gulp-module-docs
+	url = http://github.com/prowl/gulp-module-docs.git
+	branch = master
